@@ -1,4 +1,4 @@
-# Previsão de Custo Inicial para Franquia
+# Previsão de Custo Inicial para Franquia - Python
 
 Este projeto utiliza Streamlit, Pandas e Scikit-Learn para prever o custo inicial de uma franquia com base na frequência anual. A aplicação permite que os usuários insiram um novo valor de frequência anual e recebam uma previsão do custo inicial correspondente.
 
